@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_MockLooperDevice_FILE /Users/andyoneil/Development/mock-humbl-pedal/build/MockLooperDevice.app/Contents/MacOS/MockLooperDevice)
+set(__QT_DEPLOY_TARGET_MockLooperDevice_TYPE EXECUTABLE)

@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+8b625d33a3684bdcb3f1929e9948e3eb CMakeFiles/MockLooperDevice_autogen
